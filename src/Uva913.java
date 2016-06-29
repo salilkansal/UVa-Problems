@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * @author Salil kansal
+ */
 public class Uva913 {
     public static void main(String[] args) {
         Scanner s1 = new Scanner(System.in);
